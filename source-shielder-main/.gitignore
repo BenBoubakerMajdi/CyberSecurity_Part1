@@ -1,0 +1,6 @@
+# Typescript
+node_modules/
+dist/
+
+# Target
+app
